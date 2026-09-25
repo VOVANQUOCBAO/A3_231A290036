@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_xs">4dp</dimen>
+    <dimen name="space_sm">8dp</dimen>
+    <dimen name="space_md">12dp</dimen>
+    <dimen name="space_lg">16dp</dimen>
+    <dimen name="space_xl">24dp</dimen>
+    <dimen name="space_xxl">32dp</dimen>
+
+    <dimen name="header_height">150dp</dimen>
+    <dimen name="frame_header_height">196dp</dimen>
+    <dimen name="avatar_size">92dp</dimen>
+
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="corner_radius">16dp</dimen>
+</resources>
